@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jack Carrick <jcarrick@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "semver": "^7.3.8"
+  }
 }
